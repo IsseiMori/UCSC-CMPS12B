@@ -1,0 +1,14 @@
+//-----------------------------------------------------------------------------
+//Issei Mori
+//1612406
+//List of files
+//README
+//-----------------------------------------------------------------------------
+f1: Makefile
+f2: README
+c1: make
+e1: Bard.jar
+p1: java -jar Bard.jar
+t1: test-input.txt
+o1: qwerty.txt
+i1: test-output.txt
