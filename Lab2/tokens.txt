@@ -1,0 +1,33 @@
+Line 1 contains 1 tokens:
+  //-----------------------------------------------------------------------------
+Line 2 contains 2 tokens:
+  //Issei
+  Mori
+Line 3 contains 1 tokens:
+  //1612406
+Line 4 contains 3 tokens:
+  //List
+  of
+  files
+Line 5 contains 1 tokens:
+  //README
+Line 6 contains 1 tokens:
+  //-----------------------------------------------------------------------------
+Line 7 contains 2 tokens:
+  f1:
+  HelloUser.java
+Line 8 contains 2 tokens:
+  f2:
+  HelloUser2.java
+Line 9 contains 2 tokens:
+  f3:
+  Makefile1
+Line 10 contains 2 tokens:
+  f4:
+  Makefile2
+Line 11 contains 2 tokens:
+  f5:
+  Makefile3
+Line 12 contains 2 tokens:
+  f6:
+  README
